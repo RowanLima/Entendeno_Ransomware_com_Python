@@ -1,0 +1,1 @@
+# Entendeno_Ransomware_com_Python
